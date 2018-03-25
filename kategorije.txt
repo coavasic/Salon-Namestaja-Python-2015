@@ -1,0 +1,11 @@
+1/Trosedi/Tosedi 123/True
+2/TV police/TV polce 123/True
+3/Sofre/Sofe 123/True
+4/Garniture/Garniture 123/True
+5/Cetvorosedi/Cetvorosedi 123/True
+6/Ormari/Ormari 123/True
+7/Komode/Komode 123/True
+8/Ugaone garniture/Ugaone garniture 123/True
+9/Dvosedi/Dvosedi 123/True
+10/Fotelje/Fotelje 123/True
+11/asasd/asdasd/True

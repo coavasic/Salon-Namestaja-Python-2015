@@ -1,0 +1,2 @@
+1/prevoz/prevoz namestaja/1500/True
+2/montaza/montaza namestaja/1000/True

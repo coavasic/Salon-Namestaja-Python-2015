@@ -1,0 +1,4 @@
+1/milos/romanic/Loto*11000*4*Fotelje/prevoz*1500/2016-02-05/01:56:27/9100/54600
+2/Stevan/Stevic/Milano*30000*3*Trosedi/prevoz*1500/2016-02-09/03:57:02/18300/109800
+3/Stevan/Stevic/Milano*30000*5*Trosedi/montaza*1000/2016-02-09/03:57:28/30200/181200
+4/milos/romanic/Loto*11000*4*Fotelje/prevoz*1500/2016-02-05/01:56:27/9100/54600

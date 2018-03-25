@@ -1,0 +1,24 @@
+1/Cheaster/bela/13/22000/Trosedi/True
+2/Milano/braon/8/30000/Trosedi/True
+3/Palma 2/crna/12/70000/Garniture/True
+4/Alma/siva/11/73000/Garniture/True
+5/Dora/bordo/3/152000/Garnitue/True
+6/Trevor/Plava/17/32000/Sofe/True
+7/ESA Alto/braon/25/19000/Sofe/True
+8/Omnia 0002/bela/33/27000/Ormari/True
+9/TREG 1D1S/bela/33/9999/Ormari/True
+10/Regal 11/zuta/13/50000/Ormari/True
+11/Leon/braon/40/7000/TV police/True
+12/Exential/bela/19/29999/TV police/True
+13/Myrna/crna/18/34999/TV police/True
+14/Orion/crvena/29/10000/Komode/True
+15/Aleks/braon/32/9000/Komode/True
+16/Malva 2/bela/14/65000/Ugaone garniture/True
+17/Frido 3/zelena/21/75000/Ugaone garniture/True
+18/Junior/bela/30/21000/Dvosedi/True
+19/Carpino/siva/24/22000/Dvosedi/True
+20/Loto/bela/36/11000/Fotelje/True
+21/Carmen/braon/40/13000/Fotelje/True
+22/asdasdsa/asdasdas/27/9000/asasd/True
+23/adasd/asdasdasd/3/1000/Trosedi/True
+24/Lucky/crvena/10/12000/asasd/True
